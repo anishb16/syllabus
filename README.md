@@ -1,4 +1,4 @@
-# Web Technologies Syllabus
+# Web Technologies Syllabus#
 
 * **Course:** CPTR 335 - Web Technologies
 * **Instructor:** Benjamin Barber, [barberboy@gmail.com](mailto:barberboy@gmail.com)
