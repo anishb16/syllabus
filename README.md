@@ -23,6 +23,7 @@
 
 Feedback will be given in the pull request, so please respond with your thoughts and questions! You are welcome to open the pull request even while the work is still in-progress if you are stuck and want to ask a question – just mention `@barberboy` with the question to make sure I know to look at it sooner.
 
+##Note
 Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
 
